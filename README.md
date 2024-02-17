@@ -39,5 +39,6 @@ ___
 ./script.sh 
 ```
 После запуска скрипт выведет общее количество слов в тексте и среднюю длину слова
+---
 ![image](https://github.com/Kirilligu/word-count-script/assets/149255706/c68a8e62-2030-42e3-a005-26fd845306d0)
 
